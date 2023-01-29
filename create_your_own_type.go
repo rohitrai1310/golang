@@ -2,7 +2,7 @@ package main
 
 import "fmt"
 
-var a int 
+var a int  // compiler assinged value , this is called zero value
 
 type hotdog int 
 
